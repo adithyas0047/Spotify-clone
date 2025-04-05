@@ -32,3 +32,7 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 
 spotify-clone/ │ ├── index.html ├── style.css ├── /assets │ └── David_Kushner-_Daylight.png
 
+## 📬 Contact
+
+Made with ❤️ by **Adithya S.**  
+[LinkedIn](www.linkedin.com/in/adithya-s-027342237)
