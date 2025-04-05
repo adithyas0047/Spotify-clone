@@ -24,7 +24,7 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 
 ## 📸 Screenshot
 
-![Spotify Clone Screenshot](./screenshot.png)
+![Spotify Clone UI](./spotify-clone.png)
 
 ---
 
