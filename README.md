@@ -1,4 +1,3 @@
-# Spotify-clone
 # 🎵 Spotify Clone - Frontend
 
 A simple frontend clone of Spotify's music player interface, built using **HTML**, **CSS**, and **Font Awesome** icons.
@@ -31,3 +30,6 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 
 ## 📂 Folder Structure
 
+spotify-clone/ │ ├── index.html ├── style.css ├── /assets │ └── David_Kushner-_Daylight.png
+
+spotify-clone/ │ ├── index.html ├── style.css ├── /assets │ └── David_Kushner-_Daylight.png
