@@ -29,8 +29,14 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 ---
 
 ## 📂 Folder Structure
-
-📁 spotify-clone/ ├── 📁 assets/ # Assets like icons, images, or fonts (if any) ├── 📄 index.html # Main HTML file for the music player UI ├── 📄 style.css # Styling for the music player UI ├── 📄 spotify-clone.png # Screenshot of your UI └── 📄 README.md # Project documentation
+```php
+📁 spotify-clone/
+├── 📁 assets/                 # Assets like icons, images, or fonts (if any)
+├── 📄 index.html              # Main HTML file for the music player UI
+├── 📄 style.css               # Styling for the music player UI
+├── 📄 spotify-clone.png       # Screenshot of your UI
+└── 📄 README.md               # Project documentation
+```
 
 ## 📬 Contact
 
