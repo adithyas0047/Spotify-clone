@@ -32,4 +32,3 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 
 spotify-clone/ │ ├── index.html ├── style.css ├── /assets │ └── David_Kushner-_Daylight.png
 
-spotify-clone/ │ ├── index.html ├── style.css ├── /assets │ └── David_Kushner-_Daylight.png
