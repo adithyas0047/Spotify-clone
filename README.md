@@ -42,3 +42,6 @@ A simple frontend clone of Spotify's music player interface, built using **HTML*
 
 Made with ❤️ by **Adithya S.**  
 [LinkedIn](www.linkedin.com/in/adithya-s-027342237)
+
+## Live Preview
+https://spotify-ui-clone-by-adithya.netlify.app/
